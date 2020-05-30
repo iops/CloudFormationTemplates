@@ -70,7 +70,6 @@ Resources:
               content: !Sub |
                 <html>
                 <h1>Cisco SPL</h1>
-                <h4>From: Christian Rubio</4>
               group: apache
               owner: apache
               mode: '000600'
